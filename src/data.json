@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": "0",
+      "title": "My Note#1",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit corrupti, ea id consequuntur quibusdam fugit saepe voluptate alias pariatur quam incidunt praesentium molestias doloremque deleniti neque! Quae impedit, temporibus aut a similique cupiditate cumque asperiores fugit eveniet, id ipsum totam aliquam beatae rerum! Incidunt amet illo corrupti nulla. Ipsum, dolorum?"
+    },
+    {
+      "id": "1",
+      "title": "My Note#2",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit corrupti, ea id consequuntur quibusdam fugit saepe voluptate alias pariatur quam incidunt praesentium molestias doloremque deleniti neque! Quae impedit, temporibus aut a similique cupiditate cumque asperiores fugit eveniet, id ipsum totam aliquam beatae rerum! Incidunt amet illo corrupti nulla. Ipsum, dolorum?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Velit corrupti, ea id consequuntur quibusdam fugit saepe voluptate alias pariatur quam incidunt praesentium molestias doloremque deleniti neque! Quae impedit, temporibus aut a similique cupiditate cumque asperiores fugit eveniet, id ipsum totam aliquam beatae rerum! Incidunt amet illo corrupti nulla. Ipsum, dolorum?"
+    }
+  ]
+}
